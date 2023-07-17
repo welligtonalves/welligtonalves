@@ -11,6 +11,8 @@ Docker, Python, Shell Script, Terraform, OCI (Oracle Cloud Infrastructure), AWS 
 <br>
 Tenho grande interesse em compartilhar meu conhecimento e experiência com outros profissionais da área. Sou entusiasta de Linux, DevOps, Docker e automação, e estou sempre disposto a discutir e explorar esses tópicos.
 
+<br>
+<br>
 
 <picture>
   <source
