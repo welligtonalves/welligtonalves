@@ -33,4 +33,5 @@ Tenho grande interesse em compartilhar meu conhecimento e experiência com outro
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=welligtonalves&show_icons=true" />
+  
 </picture>
