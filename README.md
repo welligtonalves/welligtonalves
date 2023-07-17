@@ -1,6 +1,6 @@
-## Oiii!!!! Meu nome é Welligton Alves e estou aqui para compartilhar um pouco sobre mim e minha experiência no campo de SRE (Site Reliability Engineering). 
+## Oiii!!!! Meu nome é Welligton Alves e estou aqui para compartilhar um pouco sobre mim e minha experiência. 
 
-### Trabalho na Empresa Eulabs Soluções em Tecnologia, onde desempenho o papel de SRE.
+### Trabalho na Empresa Eulabs Soluções em Tecnologia, onde desempenho o papel de SRE (Site Reliability Engineering).
 
 ## Conhecimento e experiência:
 ### Docker, Python, Shell Script, Terraform, OCI (Oracle Cloud Infrastructure), AWS (Amazon Web Services) e GCP (Google Cloud Platform), bem como K8S (Kubernetes). Tenho familiaridade e trabalho com essas tecnologias em ambientes de produção, contribuindo para a criação de soluções eficientes e confiáveis.
