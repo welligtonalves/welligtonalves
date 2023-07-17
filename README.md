@@ -25,8 +25,8 @@ Tenho grande interesse em compartilhar meu conhecimento e experiência com outro
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=welligtonalves&show_icons=true&theme=dracula"
-    media="(prefers-color-scheme: dracula)"
+    srcset="https://github-readme-stats.vercel.app/api?username=welligtonalves&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=welligtonalves&show_icons=true"
