@@ -4,8 +4,9 @@
 🚀 Trabalho na Empresa Eulabs Soluções em Tecnologia, onde desempenho o papel de SRE (Site Reliability Engineering).
 
 Conhecimento e experiência:
+<br>
 Docker, Python, Shell Script, Terraform, OCI (Oracle Cloud Infrastructure), AWS (Amazon Web Services) e GCP (Google Cloud Platform), bem como K8S (Kubernetes). Tenho familiaridade e trabalho com essas tecnologias em ambientes de produção, contribuindo para a criação de soluções eficientes e confiáveis.
-
+</br>
 
 Tenho grande interesse em compartilhar meu conhecimento e experiência com outros profissionais da área. Sou entusiasta de Linux, DevOps, Docker e automação, e estou sempre disposto a discutir e explorar esses tópicos.
 
